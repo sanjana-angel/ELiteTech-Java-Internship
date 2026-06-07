@@ -7,8 +7,6 @@ import java.io.IOException;
  * Task 1: File Handling Utility
  * Objective:
  * Create a Java program to read, write, and modify text files.
- *
- * Author: Sanjana Angel
  */
 
 public class FileHandlingUtility {
